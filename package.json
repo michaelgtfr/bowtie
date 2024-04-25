@@ -1,0 +1,19 @@
+{
+  "name": "bowtie",
+  "version": "1.0.0",
+  "description": "mapping of data in object oriented with relationships",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelgtfr/bowtie.git"
+  },
+  "author": "Garret Michael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelgtfr/bowtie/issues"
+  },
+  "homepage": "https://github.com/michaelgtfr/bowtie#readme"
+}
